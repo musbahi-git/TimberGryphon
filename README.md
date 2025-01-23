@@ -1,4 +1,5 @@
-# Timber Viper Inspired Hobbyweight Combat Robot
+# Timber Gryphon Mk1
+(A Timber Viper Inspired Hobbyweight Combat Robot)
 ## Project Overview
 This repo contains the design files and build instructions for a 12lb (hobbyweight) combat robot inspired by the Timber Viper. Our bot features a nasty drum spinner weapon system and a robust, CNC-machined chassis.
 ### Key Features
